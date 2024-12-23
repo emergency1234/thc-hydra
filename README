@@ -544,3 +544,5 @@ zB3yrr+vYBT0uDWmxwPjiJs=
 =ytEf
 -----END PGP PUBLIC KEY BLOCK-----
 ```
+sudo apt-get update
+sudo apt-get install hydra
